@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "16625084597",
+    "project_id": "steper-test",
+    "storage_bucket": "steper-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16625084597:android:3b0ca9790650aa5f6936fc",
+        "android_client_info": {
+          "package_name": "com.example.steper_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16625084597-u2ff6ttce48k4dlj4qa0a9c2muske4p4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.steper_test",
+            "certificate_hash": "cedea79841305fd6325a119efe10ede3a8d87a31"
+          }
+        },
+        {
+          "client_id": "16625084597-ju0qte4m6094hh8pte2evp8ia5ni5ab5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9x5gBSM65y48ZrO-e24SszZBZTJlPH_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16625084597-ju0qte4m6094hh8pte2evp8ia5ni5ab5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
